@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alapp</string>
+    <string name="image">image</string>
+    <string name="sign_out">sign out</string>
+    <string name="register">register</string>
+    <string name="masukan_email">masukan email</string>
+    <string name="masukan_password">masukan passsword</string>
+    <string name="login">login</string>
+    <string name="sudah_punya_akun">sudah punya akun ?</string>
+    <string name="belum_punya_akun">belum punya akun ?</string>
+    <string name="forgot_your_password">forgot your password</string>
+    <string name="back">back</string>
+    <string name="exit">exit</string>
+    <string name="lupa_password">lupa password ? </string>
+    <string name="reset_password">reset password</string>
+</resources>
